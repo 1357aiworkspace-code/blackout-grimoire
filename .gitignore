@@ -1,0 +1,23 @@
+# Godot
+.godot/
+.import/
+*.tmp
+
+# Exports/builds
+exports/
+builds/
+dist/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.rej
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
